@@ -11,11 +11,11 @@ const EDUCATION = [
         details: "Current CGPA: 8.8",
     },
     {
-        institution: "Shriji Baba Saraswati Vidya Mandir Higher Secondary School",
+        institution: "Parvati Radhakishen Fomra School",
         degree: "High School",
-        duration: "March 2021 - April 2022",
+        duration: "March 2022 - April 2023",
         location: "Mathura, India",
-        details: "Grade: 92.4%",
+        details: "Grade: 85%",
     },
 ];
 
